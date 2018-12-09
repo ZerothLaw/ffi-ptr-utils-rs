@@ -1,0 +1,13 @@
+[package]
+name = "ffi_ptr_utils"
+version = "0.1.0"
+authors = ["Tyler Laing <trinioler@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/ZerothLaw/ffi-ptr-utils-rs"
+description = "Pointer container to make FFI easier"
+license = "MIT"
+readme = "README.md"
+keywords = ["ffi", "no_std"]
+categories = ["ffi"]
+
+[dependencies]
